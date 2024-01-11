@@ -1,8 +1,8 @@
 
-# Car Management System for UC(AR)Y
+# Car Management System
 
 ## Introduction
-This Car Management System, specifically developed for UC(AR)Y, represents a comprehensive solution for managing electric vehicles and charging infrastructure. Developed in JetBrains IntelliJ IDE, it offers a robust platform for handling various operational aspects of an electric vehicle company.
+This Car Management System, represents a comprehensive solution for managing electric vehicles and charging infrastructure. Developed in JetBrains IntelliJ IDE, it offers a robust platform for handling various operational aspects of an electric vehicle company. The project was specifically developed as a core assignment for a course in Object-Oriented Programming and Java at the university. It serves as a testament to my technical proficiency in software development with Java, as well as my ability to apply object-oriented principles to real-world problems, particularly in the context of electric vehicle infrastructure and management.
 
 ## Features
 - **Customer Management**: Efficiently handles all aspects of customer data and interactions.
